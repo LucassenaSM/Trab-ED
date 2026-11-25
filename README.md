@@ -10,7 +10,7 @@ Implementação em linguagem C para o fechamento do Campeonato Computacional de 
 - **Professor:** Prof. Thiago M. Paixão  
 - **Integrantes:**
   - **Lucas Sena** — Matrícula: 20252BSI0038
-  - **Nathan Figueiredo** — Matrícula: 
+  - **Nathan Figueiredo** — Matrícula: 20252BSI0020
 
 ---
 
@@ -27,8 +27,6 @@ O código foi desenvolvido em conformidade com o padrão C11 e projetado para o 
 Compilar e executar diretamente:
 ```sh
 make
-# ou:
-make run
 ```
 
 Executar manualmente o binário gerado:
